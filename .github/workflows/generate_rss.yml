@@ -1,1 +1,40 @@
+name: Generate RSS Feed
 
+on:
+  # 手動実行も可能にする
+  workflow_dispatch:
+  # スケジュール実行: 毎週金曜日 14:30 (中国時間=UTC+8)
+  schedule:
+    - cron: '30 6 * * 5'  # UTC 6:30 は 中国時間 14:30
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # 任意の安定版
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run RSS generation script
+        run: |
+          python generate_rss.py
+
+      - name: Commit and push RSS feed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add feed.xml
+          # 変更があればコミット、なければスキップ
+          git diff --staged --quiet || git commit -m "Update RSS feed"
+          git push
+        env:
+          # GITHUB_TOKENは自動で設定されます
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
