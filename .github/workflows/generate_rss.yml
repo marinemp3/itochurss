@@ -7,17 +7,24 @@ on:
   schedule:
     - cron: '30 6 * * 5'  # UTC 6:30 は 中国時間 14:30
 
+# 権限を明示的に設定
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # トークンを明示的に指定
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # 任意の安定版
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -33,8 +40,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add feed.xml
           # 変更があればコミット、なければスキップ
-          git diff --staged --quiet || git commit -m "Update RSS feed"
+          git diff --staged --quiet || git commit -m "Update RSS feed [skip ci]"
           git push
-        env:
-          # GITHUB_TOKENは自動で設定されます
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
