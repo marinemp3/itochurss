@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>伊藤忠総研 レポート RSS</title>
+    <link>https://www.itochu-research.com/ja/report/</link>
+    <description>株式会社伊藤忠総研が公開するレポートの最新情報を配信します。</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 03 Sep 2026 18:34:10 +0900</lastBuildDate>
+    <item>
+      <title>中東情勢改善でも低下しないインフレリスク～改定見通し－日本経済情報2026年6月号</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3295/</link>
+      <description>伊藤忠総研のレポート: 中東情勢改善でも低下しないインフレリスク～改定見通し－日本経済情報2026年6月号</description>
+      <category>日本</category>
+      <category>武田 淳</category>
+      <category>武内 浩二</category>
+      <category>高野 蒼太</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀短観6月調査: AI・半導体関連需要の拡大で製造業の景況感は改善</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3297/</link>
+      <description>伊藤忠総研のレポート: 日銀短観6月調査: AI・半導体関連需要の拡大で製造業の景況感は改善</description>
+      <category>日本</category>
+      <category>武内 浩二</category>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済：内需悪化で4～6月期成長率は4.3％に減速</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3310/</link>
+      <description>伊藤忠総研のレポート: 中国経済：内需悪化で4～6月期成長率は4.3％に減速</description>
+      <category>中国</category>
+      <category>玉井 芳野</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国経済：インフレ懸念は幾分緩和、長期金利の高止まりが重石に</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3316/</link>
+      <description>伊藤忠総研のレポート: 米国経済：インフレ懸念は幾分緩和、長期金利の高止まりが重石に</description>
+      <category>北米</category>
+      <category>髙橋 尚太郎</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州経済：度重なる猛烈な熱波が景気の重石に</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3323/</link>
+      <description>伊藤忠総研のレポート: 欧州経済：度重なる猛烈な熱波が景気の重石に</description>
+      <category>欧州</category>
+      <category>高野 蒼太</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済：内需悪化で4～6月期成長率は減速（改定見通し）</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3324/</link>
+      <description>伊藤忠総研のレポート: 中国経済：内需悪化で4～6月期成長率は減速（改定見通し）</description>
+      <category>中国</category>
+      <category>玉井 芳野</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中東情勢の悪影響続くなか、戦後最長の景気拡大へ－日本経済情報2026年7月号</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3325/</link>
+      <description>伊藤忠総研のレポート: 中東情勢の悪影響続くなか、戦後最長の景気拡大へ－日本経済情報2026年7月号</description>
+      <category>日本</category>
+      <category>武田 淳</category>
+      <category>武内 浩二</category>
+      <category>高野 蒼太</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：AI特需が今後の財輸出の回復をけん引</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3327/</link>
+      <description>伊藤忠総研のレポート: 日本経済：AI特需が今後の財輸出の回復をけん引</description>
+      <category>日本</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本2026年4～6月期1次QE予想：消費や設備投資が増加し、プラス成長が続いた模様（前期比年率＋2.7％）</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3331/</link>
+      <description>伊藤忠総研のレポート: 日本2026年4～6月期1次QE予想：消費や設備投資が増加し、プラス成長が続いた模様（前期比年率＋2.7％）</description>
+      <category>日本</category>
+      <category>武内 浩二</category>
+      <category>高野 蒼太</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国経済：7月FOMC 予想通りの据え置き、コミュニケーションに課題</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3332/</link>
+      <description>伊藤忠総研のレポート: 米国経済：7月FOMC 予想通りの据え置き、コミュニケーションに課題</description>
+      <category>北米</category>
+      <category>髙橋 尚太郎</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>為替介入効果の持続力</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3336/</link>
+      <description>伊藤忠総研のレポート: 為替介入効果の持続力</description>
+      <category>日本</category>
+      <category>武田 淳</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国経済：バーナム新首相の財政運営を市場は警戒</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3337/</link>
+      <description>伊藤忠総研のレポート: 英国経済：バーナム新首相の財政運営を市場は警戒</description>
+      <category>欧州</category>
+      <category>高野 蒼太</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：3四半期連続プラス成長ながら内需は冷え込み景気の実態は停滞（2026年4～6月期GDP）</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3346/</link>
+      <description>伊藤忠総研のレポート: 日本経済：3四半期連続プラス成長ながら内需は冷え込み景気の実態は停滞（2026年4～6月期GDP）</description>
+      <category>日本</category>
+      <category>武田 淳</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州経済：干ばつによる河川の水位低下が景気の下振れリスク</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3352/</link>
+      <description>伊藤忠総研のレポート: 欧州経済：干ばつによる河川の水位低下が景気の下振れリスク</description>
+      <category>欧州</category>
+      <category>高野 蒼太</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国経済：金利高止まりが内需を抑え一進一退に（改定見通し）</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3353/</link>
+      <description>伊藤忠総研のレポート: 米国経済：金利高止まりが内需を抑え一進一退に（改定見通し）</description>
+      <category>北米</category>
+      <category>髙橋 尚太郎</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済：内需不振が継続、当局は追加景気対策を示唆</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3355/</link>
+      <description>伊藤忠総研のレポート: 中国経済：内需不振が継続、当局は追加景気対策を示唆</description>
+      <category>中国</category>
+      <category>玉井 芳野</category>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>緩慢な金利上昇が高めるインフレリスク～改定見通し　－日本経済情報2026年8月号</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3357/</link>
+      <description>伊藤忠総研のレポート: 緩慢な金利上昇が高めるインフレリスク～改定見通し　－日本経済情報2026年8月号</description>
+      <category>日本</category>
+      <category>武田 淳</category>
+      <category>武内 浩二</category>
+      <category>高野 蒼太</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：赤字拡大に歯止めがかかるサービス収支</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3364/</link>
+      <description>伊藤忠総研のレポート: 日本経済：赤字拡大に歯止めがかかるサービス収支</description>
+      <category>日本</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：2026年4～6月期GDP2次速報は上方修正、設備投資のマイナス幅は1次速報から縮小、企業収益は好調で今後の設備投資を下支え</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3365/</link>
+      <description>伊藤忠総研のレポート: 日本経済：2026年4～6月期GDP2次速報は上方修正、設備投資のマイナス幅は1次速報から縮小、企業収益は好調で今後の設備投資を下支え</description>
+      <category>日本</category>
+      <category>武内 浩二</category>
+      <category>高野 蒼太</category>
+      <category>北辻 宗幹</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：金利上昇による家計への影響の試算 ―マクロでは収支改善も、負担は住宅ローン保有世帯に集中―</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3367/</link>
+      <description>伊藤忠総研のレポート: 日本経済：金利上昇による家計への影響の試算 ―マクロでは収支改善も、負担は住宅ローン保有世帯に集中―</description>
+      <category>日本</category>
+      <category>高野 蒼太</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
