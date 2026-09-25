@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:40:41 +0900</lastBuildDate>
-    <item>
-      <title>中国経済：内需悪化で4～6月期成長率は4.3％に減速</title>
-      <link>https://www.itochu-research.com/ja/report/2026/3310/</link>
-      <description>伊藤忠総研のレポート: 中国経済：内需悪化で4～6月期成長率は4.3％に減速</description>
-      <category>中国</category>
-      <category>玉井 芳野</category>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 15:42:27 +0900</lastBuildDate>
     <item>
       <title>米国経済：インフレ懸念は幾分緩和、長期金利の高止まりが重石に</title>
       <link>https://www.itochu-research.com/ja/report/2026/3316/</link>
@@ -177,6 +169,14 @@
       <category>北米</category>
       <category>髙橋 尚太郎</category>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本経済：高まる最低賃金引き上げによる賃金全体の押し上げ効果 －就業調整増加の回避には継続的な「年収の壁」見直しが必須－</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3382/</link>
+      <description>伊藤忠総研のレポート: 日本経済：高まる最低賃金引き上げによる賃金全体の押し上げ効果 －就業調整増加の回避には継続的な「年収の壁」見直しが必須－</description>
+      <category>日本</category>
+      <category>高野 蒼太</category>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
