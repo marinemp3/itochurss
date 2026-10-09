@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 15:45:03 +0900</lastBuildDate>
-    <item>
-      <title>米国経済：7月FOMC 予想通りの据え置き、コミュニケーションに課題</title>
-      <link>https://www.itochu-research.com/ja/report/2026/3332/</link>
-      <description>伊藤忠総研のレポート: 米国経済：7月FOMC 予想通りの据え置き、コミュニケーションに課題</description>
-      <category>北米</category>
-      <category>髙橋 尚太郎</category>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>為替介入効果の持続力</title>
-      <link>https://www.itochu-research.com/ja/report/2026/3336/</link>
-      <description>伊藤忠総研のレポート: 為替介入効果の持続力</description>
-      <category>日本</category>
-      <category>武田 淳</category>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 22:33:26 +0900</lastBuildDate>
     <item>
       <title>英国経済：バーナム新首相の財政運営を市場は警戒</title>
       <link>https://www.itochu-research.com/ja/report/2026/3337/</link>
@@ -175,6 +159,22 @@
       <category>日本</category>
       <category>武内 浩二</category>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済：内需不振続く中、住宅販売モデルの転換へ前進</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3395/</link>
+      <description>伊藤忠総研のレポート: 中国経済：内需不振続く中、住宅販売モデルの転換へ前進</description>
+      <category>中国</category>
+      <category>玉井 芳野</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株:日経平均は一時7万円台回復、上昇の持続性は？</title>
+      <link>https://www.itochu-research.com/ja/report/2026/3401/</link>
+      <description>伊藤忠総研のレポート: 日本株:日経平均は一時7万円台回復、上昇の持続性は？</description>
+      <category>日本</category>
+      <category>武内 浩二</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
